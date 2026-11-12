@@ -1,0 +1,6 @@
+/target
+/dist
+/check*.log
+/build.log
+/test*.log
+/docs/*.tmp
